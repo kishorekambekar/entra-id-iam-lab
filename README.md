@@ -1,4 +1,6 @@
-# \# Microsoft Entra ID SC-300 Lab:
+# Microsoft Entra ID SC-300 Lab:
+
+\---------------------------------------------------------------------------
 
 
 
@@ -6,13 +8,11 @@
 
 
 
-###### This repository documents my hands-on Microsoft Entra ID laboratory.
+This repository documents my hands-on Microsoft Entra ID laboratory.
 
 
 
 I created this project to gain practical experience beyond certification study.
-
-
 
 
 
